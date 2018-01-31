@@ -1,0 +1,11 @@
+ls
+cd proyect/
+ls
+cd ..
+ls
+htop
+history
+lsh
+~/.bash_history
+history
+history -a ~/current_history
